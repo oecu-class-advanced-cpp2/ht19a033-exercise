@@ -1,2 +1,3 @@
 yakiniku
 sakana
+yasai
