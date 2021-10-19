@@ -1,3 +1,1 @@
-yakiniku
-sakana
-yasai
+okashi
