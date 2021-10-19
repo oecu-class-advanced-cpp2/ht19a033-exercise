@@ -1,2 +1,3 @@
 gohan
 yakiniku
+okashi
